@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto', "helvetica neue", Helvetica, Arial, sans-serif;
+    background-color: #FEDB75;
 }
-
 .layer{
         position: fixed;
         width: 100%;
@@ -103,12 +103,15 @@ body{
     font-weight: 900;
 
 }
-
+#messenger {
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+  }
 h1 {
     margin: 72px 8px 0 8px;
     color: white;
     font-weight: 400;
-    font-size: 54px;
+    font-size: 48px;
     line-height: 100%;
     letter-spacing: -2px;
 }
