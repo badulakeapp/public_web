@@ -226,7 +226,7 @@ h1 {
     color: white;
     font-weight: 400;
     font-size: 42px;
-    line-height: 20px;
+    line-height: 140%;
 }
 h2 {
     margin: 24px 16px 40px 16px;
