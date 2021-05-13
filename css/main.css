@@ -112,16 +112,13 @@ h1 {
     line-height: 100%;
     letter-spacing: -2px;
 }
-.bold {
-font-weight: 700;}
 h2 {
     margin: 16px 8px 0 8px;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
     color: white;
     font-size: 16px;
     font-style: italic;
-    font-weight: normal;
+    font-weight:lighter;
+    line-height: 120%;
 }
 .arrow {
     margin-top: 4px;
