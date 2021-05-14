@@ -101,7 +101,6 @@ body{
     color: white;
     font-size: 24px;
     font-weight: 900;
-
 }
 .topBar {
     position: fixed;
@@ -199,5 +198,16 @@ a:hover {text-decoration: none;}
 }
 .button:hover {
     color: #FEDB75;
+    background-color: #161944;
+}
+
+.lastChance {
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
     background-color: #161944;
 }
