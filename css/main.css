@@ -14,69 +14,69 @@ body{
         z-index: -2;
 }
 .img1{
-    background: url(../img/1.png) no-repeat center center fixed; 
+    background: url(../img/1.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/1.png', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/1.png', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/1.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/1.jpg', sizingMethod='scale')";
 }
 
 .img2{
 
-    background: url(../img/2.png) no-repeat center center fixed; 
+    background: url(../img/2.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/2.png', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/2.png', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/2.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/2.jpg', sizingMethod='scale')";
 }
 .img3{
-    background: url(../img/3.png) no-repeat center center fixed; 
+    background: url(../img/3.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/3.png', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/3.png', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/3.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/3.jpg', sizingMethod='scale')";
 }
 .img4{
-    background: url(../img/4.png) no-repeat center center fixed; 
+    background: url(../img/4.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/4.png', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/4.png', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/4.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/4.jpg', sizingMethod='scale')";
 }
 .img5{
-    background: url(../img/5.png) no-repeat center center fixed; 
+    background: url(../img/5.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/5.png', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/5.png', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/5.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/5.jpg', sizingMethod='scale')";
 }
 .img6{
-    background: url(../img/6.png) no-repeat center center fixed; 
+    background: url(../img/6.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/6.png', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/6.png', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/6.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/6.jpg', sizingMethod='scale')";
 }
 .img7{
-    background: url(../img/7.png) no-repeat center center fixed; 
+    background: url(../img/7.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/7.png', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/7.png', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/7.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/7.jpg', sizingMethod='scale')";
 }
 .container {
     margin: 0 auto;
