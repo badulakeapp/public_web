@@ -1,6 +1,5 @@
 body{
     font-family: 'Raleway','Roboto', "helvetica neue", Helvetica, Arial, sans-serif;
-    background-color: #FEDB75;
 }
 .layer{
         position: fixed;
@@ -89,9 +88,10 @@ body{
     text-align: center;
 }
 .logo {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 10px;
+    z-index: 4;
     background-color:#FEDB75;
     border-bottom: 4px;
     border-bottom-right-radius: 4px;
@@ -103,10 +103,33 @@ body{
     font-weight: 900;
 
 }
-#messenger {
-    transform: translate(-50%, -50%);
-    white-space: nowrap;
-  }
+.topBar {
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    text-align: center;
+    z-index: 2;
+}
+.line {
+    display: block;
+    width: 100%;
+    height: 4px;
+    margin: 0;
+    padding:0;
+    background-color: #FEDB75;
+}
+.whiteBar {
+    width: 100%;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    opacity: 0.94;
+}
+
 h1 {
     font-family: 'Roboto';
     margin: 72px 8px 0 8px;
@@ -124,11 +147,28 @@ h2 {
     font-weight:lighter;
     line-height: 120%;
 }
+h3 {
+    margin: 16px 8px 0 8px;
+    color:     background-color: #161944;
+    ;
+    font-size: 20px;
+    line-height: 140%;
+}
+p {
+    margin: 16px 8px 0 8px;
+    color: #737373;
+    font-size: 16px;
+    line-height: 140%;  
+}
+.explain {
+    text-align: left;
+    margin: 40px 8px;
+}
 .arrow {
     margin-top: 4px;
     margin-bottom: 20px;
 }
-p {
+.info {
     margin: 32px 16px 40px 16px;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
