@@ -1,6 +1,8 @@
 body{
     font-family: 'Raleway','Roboto', "helvetica neue", Helvetica, Arial, sans-serif;
 }
+a {color:white}
+a:hover {text-decoration: none;}
 .layer{
         position: fixed;
         width: 100%;
@@ -161,21 +163,17 @@ h4 {
     font-weight: normal;
 }
 h5 {
-    margin: 16px 8px 0 8px;
+    margin: 16px 8px 0 20px;
     color:#161944;
     font-size: 16px;
     line-height: 140%;
     font-weight: 700;
 }
 p {
-    margin: 16px 8px 0 8px;
+    margin: 16px 8px 0 20px;
     color: #737373;
     font-size: 16px;
     line-height: 140%;  
-}
-.explain {
-    text-align: left;
-    margin: 100px 16px 24px 16px;
 }
 .arrow {
     margin-top: 4px;
@@ -190,8 +188,6 @@ p {
     font-size: 14px;
     line-height: 20px;
 }
-a {color:white}
-a:hover {text-decoration: none;}
 .action {
     position: absolute;
     margin-left: auto;
@@ -226,6 +222,18 @@ a:hover {text-decoration: none;}
     background-color: #161944;
 }
 
+.explain {
+    text-align: left;
+    margin: 100px 16px 24px 16px;
+}
+ .tip {
+     display: block;
+     margin:32px 8px;
+     border-left: 4px solid #f2f2f2;
+     padding: 8px;
+     font-size: 24px;
+     color: #161944;
+ }
 
 /* TIPS */
 .cards {
