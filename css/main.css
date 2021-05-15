@@ -81,13 +81,13 @@ a:hover {text-decoration: none;}
 }
 
 .back404{
-    background: url(../img/404.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.app/img/404.jpeg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/404.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/404.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.app/img/404.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.app/img/404.jpeg', sizingMethod='scale')";
 }
 
 .container {
