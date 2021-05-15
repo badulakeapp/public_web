@@ -264,6 +264,24 @@ p {
    min-height: 300px;
 
  }
- .card--big {
-   transform: scaleX(1.12)
+ .Headline404 {
+    display: block;
+    font-family: 'Roboto';
+    margin: 72px 8px 0 8px;
+    color: #161944;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: -2px;
+    text-align: center;
+
+ }
+ .paragraph404 {
+    display: block;
+    margin: 32px 8px;
+    color: #737373;
+    font-size: 16px;
+    line-height: 140%; 
+    text-align: center;
+     
  }

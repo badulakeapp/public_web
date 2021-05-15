@@ -7,5 +7,3 @@ $(document).ready(function(){
     $('body').addClass(classToAdd);
 
 });
-
-//Random words
