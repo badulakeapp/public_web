@@ -12,7 +12,7 @@ const cookieStorage = {
 }
 
 const storageType = cookieStorage;
-const consentPropertyName = 'jdc_consent';
+const consentPropertyName = 'GA';
 const shouldShowPopup = () => !storageType.getItem(consentPropertyName);
 const saveToStorage = () => storageType.setItem(consentPropertyName, true);
 
