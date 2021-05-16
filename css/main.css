@@ -294,5 +294,18 @@ p {
     font-size: 16px;
     line-height: 140%; 
     text-align: center;
-     
  }
+
+ #consent-popup {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 2rem 8rem;
+    background-color: #000;
+    transition: opacity 1s ease;
+    
+}
+#consent-popup .hidden {
+    opacity: 0;
+}
