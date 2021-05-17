@@ -313,10 +313,14 @@ li {
     left: 0;
     right: 0;
     padding: 2rem 8rem;
-    background-color: #000;
+    background-color: #161944;
     transition: opacity 1s ease;
-    
 }
 .hidden {
-    opacity: 0;
+    visibility: hidden;
+}
+.cookiesText {
+    display: block;
+    text-align: center;
+    color: #737373;
 }

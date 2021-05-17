@@ -1,19 +1,5 @@
-const cookieStorage = {
-    getItem: (item) => {
-        const cookies = document.cookie
-            .split(';')
-            .map(cookie => cookie.split('='))
-            .reduce((acc, [key, value]) => ({ ...acc, [key.trim()]: value }), {});
-        return cookies[item];
-        console.log(cookies);
-    },
-    setItem: (item, value) => {
-        document.cookie = `${item}=${value};path=/`
-    }
-}
-
-const storageType = cookieStorage;
-const consentPropertyName = 'GA';
+const storageType = localStorage;
+const consentPropertyName = 'badulake__cookie__accepted';
 const shouldShowPopup = () => !storageType.getItem(consentPropertyName);
 const saveToStorage = () => storageType.setItem(consentPropertyName, true);
 
