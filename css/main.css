@@ -186,6 +186,11 @@ p {
     font-size: 16px;
     line-height: 140%;  
 }
+li {
+    color: #737373;
+    font-size: 16px;
+    line-height: 140%; 
+}
 .arrow {
     margin-top: 4px;
     margin-bottom: 20px;
@@ -237,6 +242,13 @@ p {
     text-align: left;
     margin: 100px 16px 24px 16px;
 }
+.explainSecond {
+    text-align: left;
+    margin: 24px 8px 200px 8px;
+    padding: 8px;
+    border: 2px dashed #f2f2f2;
+    border-radius: 7px;
+}
  .tip {
      display: block;
      margin:32px 8px;
@@ -251,13 +263,12 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: stretch;   
-    margin-bottom: 180px; 
+    align-items: stretch;  
  }
  
  .card {
     flex: 1 1 250px; 
-    flex-grow: 3;
+    flex-grow: 4;
  }
  
  
@@ -306,6 +317,6 @@ p {
     transition: opacity 1s ease;
     
 }
-#consent-popup .hidden {
+.hidden {
     opacity: 0;
 }

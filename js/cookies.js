@@ -5,9 +5,10 @@ const cookieStorage = {
             .map(cookie => cookie.split('='))
             .reduce((acc, [key, value]) => ({ ...acc, [key.trim()]: value }), {});
         return cookies[item];
+        console.log(cookies);
     },
     setItem: (item, value) => {
-        document.cookie = `${item}=${value};`
+        document.cookie = `${item}=${value};path=/`
     }
 }
 
@@ -31,5 +32,4 @@ window.onload = () => {
             consentPopup.classList.remove('hidden');
         }, 2000);
     }
-
 };
