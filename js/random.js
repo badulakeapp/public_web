@@ -1,6 +1,5 @@
 $(document).ready(function(){
-    var classCycle=['bgA','bgB'];
-    //,'img2','img3','img4','img5','img6','img7'
+    var classCycle=['bg__1','bg__2','bg__3','bg__4','bg__5'];
     var randomNumber = Math.floor(Math.random() * classCycle.length);
     var classToAdd = classCycle[randomNumber];
     
