@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Raleway';
     height: 100%;
     margin: 0
@@ -18,94 +18,94 @@ a:hover {text-decoration: none;}
 }
 
 .img1{
-    background: url(https://www.badulake.org/img/1.jpeg) no-repeat center center fixed;
+    background: url(https://badulake.org/img/1.jpeg) no-repeat center center fixed;
     top:0;
     left:0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.1.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/1.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.1.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/1.jpeg', sizingMethod='scale')";
 }
 
 .img2{
-    background: url(https://www.badulake.org/img/2.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.org/img/2.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.2.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/2.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.2.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/2.jpeg', sizingMethod='scale')";
 }
 .img3{
-    background: url(https://www.badulake.org/img/3.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.org/img/3.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.3.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/3.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.3.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/3.jpeg', sizingMethod='scale')";
 }
 .img4{
-    background: url(https://www.badulake.org/img/4.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.org/img/4.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.4.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/4.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.4.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4.jpeg', sizingMethod='scale')";
 }
 .img5{
-    background: url(https://www.badulake.org/img/5.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.org/img/5.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.5.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/5.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.5.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5.jpeg', sizingMethod='scale')";
 }
 .img6{
-    background: url(https://www.badulake.org/img/6.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.org/img/6.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.6.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/6.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.6.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6.jpeg', sizingMethod='scale')";
 }
 .img7{
-    background: url(https://www.badulake.org/img/7.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.org/img/7.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.7.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/7.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.7.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7.jpeg', sizingMethod='scale')";
 }
 
 .back404{
-    background: url(https://www.badulake.org/img/404.jpeg) no-repeat center center fixed; 
+    background: url(https://badulake.org/img/404.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/.404.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/404.jpeg', sizingMethod='scale')";
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.404.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/404.jpeg', sizingMethod='scale')";
 }
 
 .container {
