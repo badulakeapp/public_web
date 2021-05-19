@@ -15,7 +15,7 @@ a:hover {text-decoration: none;}
         z-index: -2;
 }
 .img1{
-    background: url(https://www.badulake.org/img/1.jpeg) no-repeat center center fixed;
+    background: url(www.badulake.org/img/1.jpeg) no-repeat center center fixed;
     top:0;
     left:0; 
     -webkit-background-size: cover;
@@ -27,7 +27,7 @@ a:hover {text-decoration: none;}
 }
 
 .img2{
-    background: url(https://www.badulake.org/img/2.jpeg) no-repeat center center fixed; 
+    background: url(www.badulake.org/img/2.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
@@ -38,7 +38,7 @@ a:hover {text-decoration: none;}
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/2.jpeg', sizingMethod='scale')";
 }
 .img3{
-    background: url(https://www.badulake.org/img/3.jpeg) no-repeat center center fixed; 
+    background: url(www.badulake.org/img/3.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
@@ -49,7 +49,7 @@ a:hover {text-decoration: none;}
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/3.jpeg', sizingMethod='scale')";
 }
 .img4{
-    background: url(https://www.badulake.org/img/4.jpeg) no-repeat center center fixed; 
+    background: url(www.badulake.org/img/4.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
@@ -60,7 +60,7 @@ a:hover {text-decoration: none;}
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/4.jpeg', sizingMethod='scale')";
 }
 .img5{
-    background: url(https://www.badulake.org/img/5.jpeg) no-repeat center center fixed; 
+    background: url(www.badulake.org/img/5.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
@@ -71,7 +71,7 @@ a:hover {text-decoration: none;}
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/5.jpeg', sizingMethod='scale')";
 }
 .img6{
-    background: url(https://www.badulake.org/img/6.jpeg) no-repeat center center fixed; 
+    background: url(www.badulake.org/img/6.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
@@ -82,7 +82,7 @@ a:hover {text-decoration: none;}
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.badulake.org/img/6.jpeg', sizingMethod='scale')";
 }
 .img7{
-    background: url(https://www.badulake.org/img/7.jpeg) no-repeat center center fixed; 
+    background: url(www.badulake.org/img/7.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
@@ -94,7 +94,7 @@ a:hover {text-decoration: none;}
 }
 
 .back404{
-    background: url(https://www.badulake.org/img/404.jpeg) no-repeat center center fixed; 
+    background: url(www.badulake.org/img/404.jpeg) no-repeat center center fixed; 
     top: 0;
     left: 0; 
     -webkit-background-size: cover;
