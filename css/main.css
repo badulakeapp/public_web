@@ -63,6 +63,9 @@ a:hover {text-decoration: none;}
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7s.jpeg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7s.jpeg', sizingMethod='scale')";
 }
+.button {
+    font-size: 3vw;
+}
 
 @media only screen and (min-width: 600px) { 
     .bgA {
@@ -99,6 +102,9 @@ a:hover {text-decoration: none;}
         background-image: url(https://badulake.org/img/7.jpeg);
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7.jpeg', sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7.jpeg', sizingMethod='scale')";
+    }
+    .button {
+        font-size: 2vw;
     }
 }
 
@@ -242,7 +248,6 @@ li {
     padding: 16px 40px;
     background-color: #FEDB75;
     border-radius: 100px;   
-    font-size: 2vw;
     font-weight: 600;
     text-decoration: none;
 }
